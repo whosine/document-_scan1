@@ -83,3 +83,5 @@ const Collections = ({ collections, onDeleteCollection }) => {
 };
 
 export default Collections;
+
+
